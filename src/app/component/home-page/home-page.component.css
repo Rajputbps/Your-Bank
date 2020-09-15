@@ -1,0 +1,25 @@
+div.add{
+     width: 100%; 
+     height: 570px;
+     background-repeat: no-repeat;
+     background-size:cover;
+     background-image: url("https://images.livemint.com/rf/Image-621x414/LiveMint/Period1/2015/12/03/Photos/money.jpg");
+ }
+ .buttonPOostion{
+     bottom: 50%; 
+     top: 50%;
+     position: absolute;
+     left: 0;
+     right: 0;
+     z-index: 2;
+ }
+ .btn, .btn-large {
+    text-decoration: none;
+    color: #fff;
+    background-color: #2364f0fd;
+    text-align: center;
+    letter-spacing: .5px;
+    transition: .2s ease-out;
+    cursor: pointer;
+    border-radius: 10px;
+}

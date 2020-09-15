@@ -1,0 +1,16 @@
+.formdiv{
+    background-color: rgb(217, 235, 135);
+    padding: 10px 10px 70px 10px;
+    border-radius: 10px; 
+    margin-top: 2%;
+}
+.alert{
+    color: red;
+    padding-left: 30px;
+}
+.messagediv{
+    background-color: rgb(217, 235, 135);
+    padding: 10px 10px 70px 10px;
+    border-radius: 10px; 
+    margin-top: 5%;
+}
